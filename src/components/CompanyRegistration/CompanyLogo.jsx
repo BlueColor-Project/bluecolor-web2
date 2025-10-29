@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import styled from 'styled-components'
-import DeleteIcon from '../../images/delete.png'
+import DeleteIcon from '../../images/Delete.png'
 
 const CompanyLogo = ({ logoPreview, setLogoPreview }) => {
   const fileInputRef = useRef(null)

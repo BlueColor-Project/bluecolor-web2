@@ -1,5 +1,5 @@
-import Future from '../images/Future.png'
-import Future2 from '../images/Future2.png'
+import Future from '../images/future.png'
+import Future2 from '../images/future2.png'
 
 export const ApplyButtonData = [
     {

@@ -1,10 +1,10 @@
-import StaffProfile from '../images/StaffProfile.png'
-import StaffProfile2 from '../images/StaffProfile2.png'
-import StaffProfile3 from '../images/StaffProfile3.png'
-import StaffProfile4 from '../images/StaffProfile4.png'
-import StaffProfile5 from '../images/StaffProfile5.png'
-import StaffProfile6 from '../images/StaffProfile6.png'
-import StaffProfile7 from '../images/StaffProfile7.png'
+import StaffProfile from '../images/staffProfile.png'
+import StaffProfile2 from '../images/staffProfile2.png'
+import StaffProfile3 from '../images/staffProfile3.png'
+import StaffProfile4 from '../images/staffProfile4.png'
+import StaffProfile5 from '../images/staffProfile5.png'
+import StaffProfile6 from '../images/staffProfile6.png'
+import StaffProfile7 from '../images/staffProfile7.png'
 
 export const StaffProfileData = [
     {

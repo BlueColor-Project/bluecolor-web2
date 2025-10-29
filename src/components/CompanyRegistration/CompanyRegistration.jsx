@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react'
 import styled from 'styled-components'
-import DeleteIcon from '../../images/delete.png'
+import DeleteIcon from '../../images/Delete.png'
 import { SlArrowDown } from "react-icons/sl";
 import DropdownMenu from '../Modal/DropdownMenu'
 import { useNavigate } from 'react-router-dom'

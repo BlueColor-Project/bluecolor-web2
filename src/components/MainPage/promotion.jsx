@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef } from "react";
 import styled from "styled-components";
-import promotionImage2 from "../../images/Promotion2.png";
-import promotionImage3 from "../../images/Promotion3.png";
-import promotionImage4 from "../../images/Promotion4.png";
+import promotionImage2 from "../../images/promotion2.png";
+import promotionImage3 from "../../images/promotion3.png";
+import promotionImage4 from "../../images/promotion4.png";
 
 const Promotion = () => {
   const promotionImages = [
